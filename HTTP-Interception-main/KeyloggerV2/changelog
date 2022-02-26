@@ -1,0 +1,8 @@
+[Version 1]
+Logs all keystrokes to attackers server.
+
+[Version 1.1]
+Changed all keys transmitted to lowercase.
+
+[Version 2]
+Javascript file extracts URL,Session Token,JSON Authorization Token and User-Agent then sends infomation to attackers server.

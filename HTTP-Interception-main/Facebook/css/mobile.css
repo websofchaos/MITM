@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+  .login {
+  width: 90%;
+}
+input {
+width: 90%;
+}
+#signup,#login {
+width: 90%;
+}}
